@@ -40470,16 +40470,6 @@
 			)
 		)
 	)
-	(gr_line
-		(start 214.3125 60.325)
-		(end 214.3125 59.53125)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "02cf38e5-4572-4b46-96ee-dc9e75095fa7")
-	)
 	(gr_arc
 		(start 68.2625 161.13125)
 		(mid 66.578702 160.433798)
@@ -40512,6 +40502,16 @@
 		(uuid "41879d1c-c84e-4ef4-99b8-c86c9bd6eeef")
 	)
 	(gr_line
+		(start 213.51875 61.11875)
+		(end 227.80625 61.11875)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4224e992-657c-4deb-957b-dcf6f3e2d427")
+	)
+	(gr_line
 		(start 373.0625 61.11875)
 		(end 229.39375 61.11875)
 		(stroke
@@ -40520,16 +40520,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "46e8a22d-4d1e-4934-bed6-ad0092392b3b")
-	)
-	(gr_line
-		(start 227.0125 59.53125)
-		(end 227.0125 60.316091)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "63e43c8d-7a92-4e6f-a0c5-53ae6c524583")
 	)
 	(gr_arc
 		(start 65.88125 63.5)
@@ -40541,17 +40531,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "76f676b4-91f1-44ca-86fb-c775f271513a")
-	)
-	(gr_arc
-		(start 214.3125 60.325)
-		(mid 214.080016 60.886266)
-		(end 213.51875 61.11875)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "7d9ebaa4-5a00-4b6f-bf2c-cc2f72c2542f")
 	)
 	(gr_line
 		(start 68.2625 61.11875)
@@ -40575,16 +40554,6 @@
 		(uuid "85254584-d0d3-4057-a627-f373fe098359")
 	)
 	(gr_line
-		(start 214.3125 59.53125)
-		(end 227.0125 59.53125)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "86fce1e7-12a1-40a6-a07d-e634debf6e2f")
-	)
-	(gr_line
 		(start 227.80625 61.118749)
 		(end 229.39375 61.11875)
 		(stroke
@@ -40604,17 +40573,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "961deff7-8438-4662-b3da-d5c087ce3f7e")
-	)
-	(gr_arc
-		(start 227.80625 61.11875)
-		(mid 227.244984 60.886266)
-		(end 227.0125 60.325)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "b8511e1c-05f5-40b4-8906-c99c82970b2e")
 	)
 	(gr_line
 		(start 375.44375 158.75)
