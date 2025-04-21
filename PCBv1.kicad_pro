@@ -534,7 +534,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PCBv1.step",
       "svg": "",
       "vrml": ""
     },
